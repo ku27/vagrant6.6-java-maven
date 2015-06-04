@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo su - root
 USER_DIR=/root
 JAVA_RELEASE=7u80
 JAVA_RELEASE_WITH_BUILD_NO=7u80-b15
